@@ -1,0 +1,8 @@
+# 급여 자료는 절대 올리지 않습니다
+*.json
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.zip
+__pycache__/
