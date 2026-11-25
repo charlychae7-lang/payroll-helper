@@ -1,7 +1,7 @@
 {
-  "name": "급여 업무 도우미",
+  "name": "급여 업무 도우미 체험판",
   "short_name": "급여도우미",
-  "description": "급여대장·급여명세서 자동 계산",
+  "description": "급여대장·급여명세서 체험판",
   "lang": "ko",
   "start_url": "./",
   "scope": "./",
